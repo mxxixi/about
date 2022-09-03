@@ -9,7 +9,7 @@
  */
 
 (function(){
-  var myChart = echarts.init(document.querySelector(".row text-center .chart"));
+  var myChart = echarts.init(document.querySelector(".echart.chart"));
   //这里的.map .chart是HTML的div容器的class属性的名称，表示名为map的div容器下的名字为chart的容器, 具体解释在后面
 
   /*
@@ -30,14 +30,14 @@
       ]
     },
     grid: { containLabel: true },
-    xAxis: { name: '熟练度' },
-    yAxis: { type: '技能' },
+    xAxis: { name: 'amount' },
+    yAxis: { type: 'category' },
     visualMap: {
       orient: 'horizontal',
       left: 'center',
       min: 10,
       max: 100,
-      text: ['高', '低'],
+      text: ['High Score', 'Low Score'],
       // Map the score column to color
       dimension: 0,
       inRange: {
