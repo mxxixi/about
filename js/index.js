@@ -15,7 +15,7 @@
   /*
   这里粘贴Echarts实例中的相关代码
   */
-  option = {
+  var option = {
     dataset: {
       source: [
         ['score', 'amount', 'product'],
