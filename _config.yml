@@ -46,15 +46,13 @@ people:
 social:
   - title: 小红书
     url: #http://twitter.com/jekyllrb
-  - title: 微信
+  - title: 我的博客
     url: #
   - title: 邮件
     url: #http://stackoverflow.com/questions/tagged/jekyll
   - title: 微博 
     url: #http://bitbucket.org/jekyll
   - title: github
-    url: #http://github.com/jekyll
-  - title: 我的博客
     url: #http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
