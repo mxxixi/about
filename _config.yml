@@ -3,15 +3,15 @@ baseurl: /about/
 
 # Site settings
 title: 夕夕
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: mx.xi@foxmail.cn
+description: "本人虽然有着两年的研发经验以及近三年的项目运维工作经验，可以让我在与开发沟通时能保持在同一个频率，还会参与项目的需求及测试相关工作，了解整个项目各个节点所运行的流程，但在在业余生活中也会研究其它领域的业务并且学习行业相关的知识。"
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: 嘻嘻
   pic: 1
-  position: Lead Designer
+  position: 生命中不可或缺的伙伴
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: 夕夕
   pic: 2
-  position: Lead Marketer
+  position: 立志于成为更好的自己
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: 夜明
   pic: 3
-  position: Lead Developer
+  position: 将伴随我一生的人
   social:
     - title: twitter
       url: #
@@ -44,16 +44,18 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  - title: 小红书
+    url: #http://twitter.com/jekyllrb
+  - title: 微信
+    url: #
+  - title: 邮件
+    url: #http://stackoverflow.com/questions/tagged/jekyll
+  - title: 微博 
+    url: #http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: #http://github.com/jekyll
+  - title: 我的博客
+    url: #http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
