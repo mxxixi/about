@@ -488,9 +488,9 @@ section h3.section-subheading {
     border-left-width: 0;
 }
 
-timeline-image:hover{
+/* timeline-image:hover{
     border:1px yellow solid;
-}
+} */
 
 .timeline>li .timeline-image {
     z-index: 100;
