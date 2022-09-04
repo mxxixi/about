@@ -882,3 +882,22 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
+/*发光 */
+@keyframes img-responsive img-circle {
+    from {
+       box-shadow:0px 0px 4px #f00;
+    }
+    to {
+      box-shadow:0px 0px 16px #f00;
+    }
+}
+
+.img-responsive img-circle{
+    margin:300px;
+    width: 100px;
+    height: 100px;
+    margin:20px;
+    border-radius: 50%;
+    animation: light 2s ease-in-out infinite alternate;
+}
