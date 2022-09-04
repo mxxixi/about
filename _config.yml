@@ -24,7 +24,7 @@ people:
   pic: 2
   position: 立志于成为更好的自己
   social:
-    - title: blog
+    - title: link
       url: https://imxixi.cn/ #
     - title: github
       url: https://github.com/mxxixi/ #
@@ -35,7 +35,7 @@ people:
   pic: 3
   position: 将伴随我一生的人
   social:
-    - title: blog
+    - title: link
       url: https://lixiaoxu.cn/ #
     - title: github
       url: https://github.com/lixx-code #
@@ -46,9 +46,9 @@ people:
 social:
   - title: book
     url: https://www.xiaohongshu.com/user/profile/5cf77a250000000025019e80 #http://twitter.com/jekyllrb
-  - title: blog
+  - title: link
     url: https://imxixi.cn/ #
-  - title: tv-retro
+  - title: tv
     url: https://space.bilibili.com/457038975/dynamic #http://stackoverflow.com/questions/tagged/jekyll
   - title: weibo 
     url: https://m.weibo.cn/profile/6867557735 #http://bitbucket.org/jekyll
