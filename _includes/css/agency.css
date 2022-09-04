@@ -270,7 +270,8 @@ header {
     color: #fff;
     background-attachment: scroll;
     /* background-image: url('{{ site.baseurl }}/img/header-bg.jpg'); */
-    background-image: url('https://oss.lixiaoxu.cn/xixi/b3be458e28848ead9ef38d96e1f29d20.jpg');
+    /* background-image: url('https://oss.lixiaoxu.cn/xixi/b3be458e28848ead9ef38d96e1f29d20.jpg'); */
+    background-image: url('https://oss.lixiaoxu.cn/xixi/ChMlWVW246-IGB2DAAHyBVLH9bEAAHuiwIKN3UAAfId413.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
