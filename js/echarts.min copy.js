@@ -8,14 +8,7 @@
  * classie.toggle( elem, 'my-class' )
  */
 
-(function(){
-  var myChart=echarts.init(document.querySelector(".echart.chart"));
-  //这里的.map .chart是HTML的div容器的class属性的名称，表示名为map的div容器下的名字为chart的容器, 具体解释在后面
-
-  /*
-  这里粘贴Echarts实例中的相关代码
-  */
-  option = {
+option = {
     dataset: {
       source: [
         ['score', 'amount', 'product'],
@@ -56,6 +49,3 @@
       }
     ]
   };
-  myChart.setOption(option);
-})();
-
