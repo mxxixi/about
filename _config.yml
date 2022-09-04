@@ -13,47 +13,47 @@ people:
   pic: 1
   position: 生命中不可或缺的伙伴
   social:
-    - title: twitter
+    - title: 无
       url: #
-    - title: facebook
+    - title: 无
       url: #
-    - title: stack-overflow
+    - title: 无
       url: #
 
 - name: 夕夕
   pic: 2
   position: 立志于成为更好的自己
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    - title: 博客
+      url: https://imxixi.cn/ #
+    - title: Github
+      url: https://github.com/mxxixi/ #
+    - title: 小红书
+      url: https://www.xiaohongshu.com/user/profile/5cf77a250000000025019e80 #
 
 - name: 夜明
   pic: 3
   position: 将伴随我一生的人
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: 博客
+      url: https://lixiaoxu.cn/ #
+    - title: Github
+      url: https://github.com/lixx-code #
+    - title: 微博
+      url: https://weibo.com/LxxDawn #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: 小红书
-    url: #http://twitter.com/jekyllrb
+    url: https://www.xiaohongshu.com/user/profile/5cf77a250000000025019e80 #http://twitter.com/jekyllrb
   - title: 我的博客
-    url: #
-  - title: 邮件
-    url: #http://stackoverflow.com/questions/tagged/jekyll
+    url: https://imxixi.cn/ #
+  - title: 哔哩哔哩
+    url: https://space.bilibili.com/457038975/dynamic #http://stackoverflow.com/questions/tagged/jekyll
   - title: 微博 
-    url: #http://bitbucket.org/jekyll
+    url: https://m.weibo.cn/profile/6867557735 #http://bitbucket.org/jekyll
   - title: github
-    url: #http://github.com/jekyll
+    url: https://github.com/mxxixi/ #http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
