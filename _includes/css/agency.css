@@ -279,7 +279,7 @@ header {
     -o-background-size: cover;
 }
 
-#services{
+/* #services{
     color: #fff;
     background-image: url('https://oss.lixiaoxu.cn/xixi/ChMkJlbKx2qIKPxiAAlXILFmr4gAALHzQFig2UACVc4500.jpg'); 
     background-position: center center;
@@ -288,12 +288,12 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-}
+} */
 
-/* header .intro-text {
+header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
-} */
+}
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
