@@ -1,6 +1,6 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: UI设计
+subtitle: 系统原型及界面设计
 layout: default
 modal-id: 6
 date: 2014-07-15
