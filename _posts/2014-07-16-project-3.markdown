@@ -4,7 +4,7 @@ subtitle: 美丽的风景与你分享
 layout: default
 modal-id: 2
 date: 2022-09-19
-img: [treehouse.png](https://oss.lixiaoxu.cn/xixi/微信图片_20220919101530.jpg)
+img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
 # project-date: April 2022
