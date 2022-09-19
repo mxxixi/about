@@ -2,7 +2,7 @@
 title: 摄影展示
 subtitle: 美丽的风景与你分享
 layout: default
-modal-id: 4
+modal-id: 2
 date: 2014-07-15
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png

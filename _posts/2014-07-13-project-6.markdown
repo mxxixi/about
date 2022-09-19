@@ -2,7 +2,7 @@
 title: 无
 subtitle: 暂时不知道写些什么
 layout: default
-modal-id: 3
+modal-id: 5
 date: 2014-07-16
 img: golden.png
 thumbnail: golden-thumbnail.png
