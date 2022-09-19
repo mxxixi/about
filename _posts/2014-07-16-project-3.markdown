@@ -4,13 +4,15 @@ subtitle: 美丽的风景与你分享
 layout: default
 modal-id: 2
 date: 2022-09-19
-img: treehouse.png
+img: [treehouse.png](https://oss.lixiaoxu.cn/xixi/微信图片_20220919101530.jpg)
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+# project-date: April 2022
+# client: Start Bootstrap
+# category: Web Development
+description: 一个新手菜鸟的自述，记录成长过程.
 ---
 
+### 第一张摄影作品~
+> 设备为：尼康Z30
+![](https://oss.lixiaoxu.cn/xixi/微信图片_20220919101530.jpg)
